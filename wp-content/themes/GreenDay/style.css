@@ -1,0 +1,62 @@
+/*
+
+Theme Name: Tema Green Day Band
+Theme URI: https://greenday.com
+Author: Tim Greenday
+Author URI: randhyy
+Description: tema untuk informasi band  
+
+
+*/
+
+body {
+    margin: 50px auto;
+    width: 80%;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(72, 143, 217);
+}
+
+h1 {
+    margin-bottom: 0px;
+}
+
+h1 a{
+    color: green;
+    background-color: #e8e3e3;
+    padding: 5px;
+}
+
+h2 {
+    margin-top: 0px;
+}
+
+li {
+    list-style: none;
+}
+
+nav ul {
+    padding-left: 0px;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+header nav li{
+    font-size: 22px;
+    border: 2px solid #333;
+    padding: 3px;
+    color: #333;
+}
+
+header {
+    border-bottom: 3px solid #333;
+}
+
+footer {
+    border-top: 3px solid #333;
+}
